@@ -15,13 +15,13 @@ li{
     background-color: #e78e2149;
     border-radius: 50px;
 }
-.item{
+/* .item{
     background-color: rgb(196, 196, 11);
     border: 20px;
     border-color: rgb(236, 214, 12);
     border-radius: 10px;
     margin:5px 40vw;
-    list-style: none;
+    list-style: none; */
 
 }
 .main-list{
@@ -53,10 +53,13 @@ nav{
     text-align: left;
     max-width: fit-content;
     border-radius: 3px;
-    
 }
 .nav-item{
     color: white;
     font-weight: 800;
     font-size: 18px;
+}
+.container{
+
+
 }
